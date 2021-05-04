@@ -5,6 +5,6 @@
 **2.You can Delete and item, UI will be updated.**
 **3.You can update and item, UI will be updated.**
 
-**Tools and Technologies: html5, css3, bootstrap, API**
+**Tools and Technologies: html5, css3, bootstrap, javascript **
 
 **Live Site Link:** http://tanvirul.me/Tracalorie/
